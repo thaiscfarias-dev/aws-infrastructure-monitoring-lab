@@ -66,4 +66,4 @@ Para garantir governança corporativa, o AWS Config foi habilitado para avaliar 
 * Implementação de **governança e compliance automatizado** na nuvem AWS utilizando o **AWS Config**.
 
 ---
-Feito com 💻 por [Seu Nome]
+Feito com 💻 por Thais Farias
